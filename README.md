@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="22">
+
+<td><img src="https://profile-counter.glitch.me/shobhnanayak99/count.svg" alt="vistor count" height="20"></td>
 
  <!--**shobhnanayak99/shobhnanayak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
